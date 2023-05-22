@@ -1,3 +1,5 @@
+# Git 용량 초과로 인한 google drive upload => https://drive.google.com/file/d/1HRE72QV6ljPWv2kSmgMTrERSUpG6G7EY/view?usp=share_link
+
 # 🌷 SSAFY-STAR - ssafy 인포메이션 & 커뮤니케이션 사이트
 
 ![image](https://github.com/deokisys/deokisys/assets/24247768/69102f47-a4fc-49d3-be5b-8f987728f9e0)
