@@ -1,4 +1,4 @@
-# Git 용량 초과로 인한 google drive upload => https://drive.google.com/file/d/1HRE72QV6ljPWv2kSmgMTrERSUpG6G7EY/view?usp=share_link
+### Git 용량 초과로 인한 google drive upload => https://drive.google.com/file/d/1HRE72QV6ljPWv2kSmgMTrERSUpG6G7EY/view?usp=share_link
 
 # 🌷 SSAFY-STAR - ssafy 인포메이션 & 커뮤니케이션 사이트
 
